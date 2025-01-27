@@ -1,0 +1,215 @@
+{
+    "bots": [
+      {
+        "id": 101,
+        "name": "wHz-93",
+        "health": 94,
+        "damage": 20,
+        "armor": 63,
+        "bot_class": "Support",
+        "catchphrase": "1010010101001101100011000111101",
+        "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1"
+      },
+      {
+        "id": 102,
+        "name": "RyM-66",
+        "health": 86,
+        "damage": 36,
+        "armor": 77,
+        "bot_class": "Medic",
+        "catchphrase": "0110011100000100011110100110011001",
+        "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1"
+      },
+      {
+        "id": 103,
+        "name": "XJ-9",
+        "health": 75,
+        "damage": 50,
+        "armor": 55,
+        "bot_class": "Assault",
+        "catchphrase": "Ready to rumble!",
+        "avatar_url": "https://robohash.org/example1.png?size=300x300&set=set1"
+      },
+      {
+        "id": 104,
+        "name": "Delta-22",
+        "health": 90,
+        "damage": 40,
+        "armor": 80,
+        "bot_class": "Defender",
+        "catchphrase": "Protect and serve!",
+        "avatar_url": "https://robohash.org/example2.png?size=300x300&set=set1"
+      },
+      {
+        "id": 105,
+        "name": "Omicron-12",
+        "health": 88,
+        "damage": 30,
+        "armor": 70,
+        "bot_class": "Captain",
+        "catchphrase": "Leading the charge!",
+        "avatar_url": "https://robohash.org/example3.png?size=300x300&set=set1"
+      },
+      {
+        "id": 106,
+        "name": "Epsilon-8",
+        "health": 82,
+        "damage": 45,
+        "armor": 60,
+        "bot_class": "Witch",
+        "catchphrase": "Casting spells!",
+        "avatar_url": "https://robohash.org/example4.png?size=300x300&set=set1"
+      },
+      {
+        "id": 107,
+        "name": "Gamma-9",
+        "health": 78,
+        "damage": 55,
+        "armor": 50,
+        "bot_class": "Assault",
+        "catchphrase": "Charge forward!",
+        "avatar_url": "https://robohash.org/example5.png?size=300x300&set=set1"
+      },
+      {
+        "id": 108,
+        "name": "Theta-21",
+        "health": 99,
+        "damage": 22,
+        "armor": 88,
+        "bot_class": "Defender",
+        "catchphrase": "Hold the line!",
+        "avatar_url": "https://robohash.org/example6.png?size=300x300&set=set1"
+      },
+      {
+        "id": 109,
+        "name": "Beta-4",
+        "health": 70,
+        "damage": 60,
+        "armor": 40,
+        "bot_class": "Medic",
+        "catchphrase": "Healing initiated.",
+        "avatar_url": "https://robohash.org/example7.png?size=300x300&set=set1"
+      },
+      {
+        "id": 110,
+        "name": "Zeta-15",
+        "health": 85,
+        "damage": 35,
+        "armor": 75,
+        "bot_class": "Captain",
+        "catchphrase": "Let's win together!",
+        "avatar_url": "https://robohash.org/example8.png?size=300x300&set=set1"
+      },
+      {
+        "id": 111,
+        "name": "Alpha-1",
+        "health": 92,
+        "damage": 48,
+        "armor": 67,
+        "bot_class": "Witch",
+        "catchphrase": "Dark magic rules!",
+        "avatar_url": "https://robohash.org/example9.png?size=300x300&set=set1"
+      },
+      {
+        "id": 112,
+        "name": "Kappa-7",
+        "health": 81,
+        "damage": 32,
+        "armor": 72,
+        "bot_class": "Defender",
+        "catchphrase": "Defense is the best offense!",
+        "avatar_url": "https://robohash.org/example10.png?size=300x300&set=set1"
+      },
+      {
+        "id": 113,
+        "name": "Sigma-5",
+        "health": 88,
+        "damage": 42,
+        "armor": 58,
+        "bot_class": "Support",
+        "catchphrase": "Supporting you always!",
+        "avatar_url": "https://robohash.org/example11.png?size=300x300&set=set1"
+      },
+      {
+        "id": 114,
+        "name": "Lambda-3",
+        "health": 76,
+        "damage": 51,
+        "armor": 62,
+        "bot_class": "Assault",
+        "catchphrase": "Target acquired!",
+        "avatar_url": "https://robohash.org/example12.png?size=300x300&set=set1"
+      },
+      {
+        "id": 115,
+        "name": "Omega-13",
+        "health": 89,
+        "damage": 29,
+        "armor": 78,
+        "bot_class": "Captain",
+        "catchphrase": "Victory is ours!",
+        "avatar_url": "https://robohash.org/example13.png?size=300x300&set=set1"
+      },
+      {
+        "id": 116,
+        "name": "Rho-20",
+        "health": 83,
+        "damage": 33,
+        "armor": 69,
+        "bot_class": "Medic",
+        "catchphrase": "Health restored!",
+        "avatar_url": "https://robohash.org/example14.png?size=300x300&set=set1"
+      },
+      {
+        "id": 117,
+        "name": "Psi-30",
+        "health": 79,
+        "damage": 46,
+        "armor": 65,
+        "bot_class": "Support",
+        "catchphrase": "I'm here to help!",
+        "avatar_url": "https://robohash.org/example15.png?size=300x300&set=set1"
+      },
+      {
+        "id": 118,
+        "name": "Iota-11",
+        "health": 95,
+        "damage": 25,
+        "armor": 80,
+        "bot_class": "Defender",
+        "catchphrase": "Unbreakable!",
+        "avatar_url": "https://robohash.org/example16.png?size=300x300&set=set1"
+      },
+      {
+        "id": 119,
+        "name": "Tau-2",
+        "health": 82,
+        "damage": 39,
+        "armor": 55,
+        "bot_class": "Witch",
+        "catchphrase": "Magic never fails!",
+        "avatar_url": "https://robohash.org/example17.png?size=300x300&set=set1"
+      },
+      {
+        "id": 120,
+        "name": "Zeta-100",
+        "health": 90,
+        "damage": 38,
+        "armor": 79,
+        "bot_class": "Assault",
+        "catchphrase": "Attack mode engaged!",
+        "avatar_url": "https://robohash.org/example18.png?size=300x300&set=set1"
+      },
+      {
+        "id": 121,
+        "name": "Vega-55",
+        "health": 88,
+        "damage": 47,
+        "armor": 73,
+        "bot_class": "Support",
+        "catchphrase": "I'm your backup!",
+        "avatar_url": "https://robohash.org/example19.png?size=300x300&set=set1"
+      }
+      
+    ]
+  }
